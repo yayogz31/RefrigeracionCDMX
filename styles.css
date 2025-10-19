@@ -62,8 +62,9 @@ h2 {
 
 /* --- ESTILOS PARA IMÁGENES  --- */
 .nav-logo img {
-    height: 40px;
+    height: 80px;
     width: auto;
+    position: relative;
 }
 
 .card-icon {
@@ -84,7 +85,7 @@ h2 {
 /* --- ENCABEZADO Y NAVEGACIÓN --- */
 .main-header {
     background-color: #fff;
-    padding: 1rem 0;
+    padding: 5px 0;
     position: sticky;
     top: 0;
     z-index: 1000;
